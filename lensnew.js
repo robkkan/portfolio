@@ -436,5 +436,5 @@ window.addEventListener("load", () => {
     setTimeout(animateShutter, ANIMATION_DELAY);
   }
 
-  setTimeout(initializeAnimation, 100);
+  setTimeout(initializeAnimation, 1000);
 });
