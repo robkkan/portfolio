@@ -67,7 +67,7 @@ window.addEventListener("load", (event) => {
 								transform: translate(-50%, -50%);
 								width: 100%; }
 							.camera-shutter__triangle {
-								border: 1px solid #000;
+								border: 1px solid #242426;
 								height: 100%;
 								position: absolute;
 								transform-origin: 100% 100%;
