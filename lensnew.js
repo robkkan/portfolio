@@ -406,7 +406,7 @@ window.addEventListener("load", () => {
       }
 
       const animations = [
-        { className: "camera-shutter--f2", delay: 500, transitionDuration: "1s" },
+        { className: "camera-shutter--f2", delay: 1000, transitionDuration: "1s" },
         { className: "camera-shutter--f8", delay: 1500, transitionDuration: "1s" },
         { className: "camera-shutter--f22", delay: 2250, transitionDuration: "1s" },
         { className: "camera-shutter--f45", delay: 3000, transitionDuration: "1s" }
