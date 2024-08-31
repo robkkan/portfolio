@@ -4,7 +4,8 @@ window.addEventListener("load", (event) => {
 		function all() {
 				const id = document.querySelector('#a1111')
 
-				let scriptAnimArr = [// 'https://dfrnc.com/sandbox/vla/8365/v7/style.css',
+				let scriptAnimArr = [
+					// 'https://dfrnc.com/sandbox/vla/8365/v7/style.css',
 				]
 					
 				function gsapAnimation() {
