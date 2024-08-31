@@ -2,7 +2,7 @@ window.addEventListener("load", () => {
   function initializeAnimation() {
     const ANIMATION_ID = '#a1111';
     const ANIMATION_DELAY = 100;
-    const CAMERA_ANIMATION_INTERVAL = 4000;
+    const CAMERA_ANIMATION_INTERVAL = 6000;
 
     function createShutterContent() {
       return `
