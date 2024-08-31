@@ -39,15 +39,15 @@ window.addEventListener("load", (event) => {
 							transform: translate(-50%, -50%);
 							height: 100%;
 							width: 100%; 
-							border: 1px solid #000;
-							background: #f6f6f6;
+							border: 1px solid #242426;
+							background: #000000;
 							border-radius: 50%;
 							padding: 6%;
 							margin:0;
 						}
 
 						#a1111 	.camera-shutter {
-							border: 1px solid #000;
+							border: 1px solid #242426;
 							border-radius: 100%;
 							transform: rotate(30deg);
 							height: 100%;
