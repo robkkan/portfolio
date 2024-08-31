@@ -40,14 +40,14 @@ window.addEventListener("load", (event) => {
 							height: 100%;
 							width: 100%; 
 							border: 1px solid #000;
-							background: #f6f6f6;
+							background: #f0f0f0;
 							border-radius: 50%;
 							padding: 6%;
 							margin:0;
 						}
 
 						#a1111 	.camera-shutter {
-							border: 1px solid #000;
+							border: 1px solid #242426;
 							border-radius: 100%;
 							transform: rotate(30deg);
 							height: 100%;
@@ -67,7 +67,7 @@ window.addEventListener("load", (event) => {
 								transform: translate(-50%, -50%);
 								width: 100%; }
 							.camera-shutter__triangle {
-								border: 1px solid #000;
+								border: 1px solid #242426;
 								height: 100%;
 								position: absolute;
 								transform-origin: 100% 100%;
