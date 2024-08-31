@@ -409,7 +409,7 @@ window.addEventListener("load", () => {
         { className: "camera-shutter--f2", delay: 1000, transitionDuration: "1s" },
         { className: "camera-shutter--f8", delay: 1500, transitionDuration: "1s" },
         { className: "camera-shutter--f22", delay: 1500, transitionDuration: "0.5s" },
-        { className: "camera-shutter--f45", delay: 6000, transitionDuration: "1s" }
+        { className: "camera-shutter--f45", delay: 1, transitionDuration: "1s" }
       ];
 
       function runAnimation(index = 0) {
