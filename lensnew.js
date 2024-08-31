@@ -32,7 +32,7 @@ window.addEventListener("load", () => {
 							height: 100%;
 							width: 100%; 
 							border: 1px solid #242426;
-							background: #f0f0f0;
+							background: transparent;
 							border-radius: 50%;
 							padding: 6%;
 							margin:0;
