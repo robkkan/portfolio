@@ -4,6 +4,10 @@ window.addEventListener("load", (event) => {
 		function all() {
 				const id = document.querySelector('#a1111')
 
+				let scriptAnimArr = [
+					// 'https://dfrnc.com/sandbox/vla/8365/v7/style.css',
+			]
+
 				function gsapAnimation() {
 
 						}
@@ -36,6 +40,7 @@ window.addEventListener("load", (event) => {
 							height: 100%;
 							width: 100%; 
 							border: 1px solid #000;
+							background: #f6f6f6;
 							border-radius: 50%;
 							padding: 6%;
 							margin:0;
@@ -462,4 +467,3 @@ window.addEventListener("load", (event) => {
 	};
 	setTimeout(load, 100)
 });
-
