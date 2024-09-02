@@ -123,7 +123,7 @@ width="258px" height="258px" viewBox="0 0 258 258" enable-background="new 0 0 25
             let tempScript = document.createElement('script');
             tempScript.src = elem;
             tempScript.onload = function() {
-                if (elem.includes('globe_gsap.js')) {
+                if (elem.includes('https://robkkan.github.io/portfolio/globe_gsap.js')) {
                     gsapAnim(); // Call after the necessary scripts are loaded
                 }
             };
