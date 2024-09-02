@@ -7,7 +7,7 @@ function a1111globe()
 
         let scriptAnimArr = [
         'https://robkkan.github.io/portfolio/globe_cloud.js',
-        'https://robkkan.github.io/portfolio/globe_gsap.js,
+        'https://robkkan.github.io/portfolio/globe_gsap.js',
         ]
 
         function gsapAnim()
