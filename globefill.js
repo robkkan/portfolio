@@ -75,30 +75,30 @@ function a1111invertedGlobe() {
                  <use xlink:href="#SVGID_1_"  overflow="visible"/>
              </clipPath>
              <g clip-path="url(#SVGID_2_)">
-                 <path fill="#242426" stroke="none" d="M129,257
+                 <path fill="#FFFFFF" stroke="none" d="M129,257
                      c70.7,0,128-57.3,128-128S199.7,1,129,1"/>
-                 <path fill="#242426" stroke="none" d="M129,256
+                 <path fill="#FFFFFF" stroke="none" d="M129,256
                      C58.3,256,1,198.7,1,128S58.3,0,129,0"/>
-                 <path id="globeR4" fill="#242426" stroke="none" d="
+                 <path id="globeR4" fill="#FFFFFF" stroke="none" d="
                      M129,257c70.7,0,128-57.3,128-128S199.7,1,129,1"/>
-                 <path id="globeR3" fill="#242426" stroke="none" d="
+                 <path id="globeR3" fill="#FFFFFF" stroke="none" d="
                      M129,257c70.7,0,128-57.3,128-128S199.7,1,129,1"/>
-                 <path id="globeR2" fill="#242426" stroke="none" d="
+                 <path id="globeR2" fill="#FFFFFF" stroke="none" d="
                      M129,257c70.7,0,128-57.3,128-128S199.7,1,129,1"/>
-                 <path id="globeR1" fill="#242426" stroke="none" d="
+                 <path id="globeR1" fill="#FFFFFF" stroke="none" d="
                      M129,257c70.7,0,128-57.3,128-128S199.7,1,129,1"/>
-                 <path id="globeL4" fill="#242426" stroke="none" d="
+                 <path id="globeL4" fill="#FFFFFF" stroke="none" d="
                      M129,257C58.3,257,1,199.7,1,129S58.3,1,129,1"/>
-                 <path id="globeL3" fill="#242426" stroke="none" d="
+                 <path id="globeL3" fill="#FFFFFF" stroke="none" d="
                      M129,257C58.3,257,1,199.7,1,129S58.3,1,129,1"/>
-                 <path id="globeL2" fill="#242426" stroke="none" d="
+                 <path id="globeL2" fill="#FFFFFF" stroke="none" d="
                      M129,257C58.3,257,1,199.7,1,129S58.3,1,129,1"/>
-                 <path id="globeL1" fill="#242426" stroke="none" d="
+                 <path id="globeL1" fill="#FFFFFF" stroke="none" d="
                      M129,257C58.3,257,1,199.7,1,129S58.3,1,129,1"/>
-                 <path fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M257,129H1"/>
-                 <path fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M238.7,65H19.3"
+                 <path fill="none" stroke="transparent" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M257,129H1"/>
+                 <path fill="none" stroke="transparent" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M238.7,65H19.3"
                      />
-                 <path fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M238.7,193H19.3
+                 <path fill="none" stroke="transparent" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M238.7,193H19.3
                      "/>
              </g>
          </g>
